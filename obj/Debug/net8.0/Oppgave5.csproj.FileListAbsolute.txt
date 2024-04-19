@@ -1,0 +1,30 @@
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\bin\Debug\net8.0\Oppgave5.exe
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\bin\Debug\net8.0\cars.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\bin\Debug\net8.0\Oppgave5.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\bin\Debug\net8.0\Oppgave5.runtimeconfig.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\bin\Debug\net8.0\Oppgave5.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\bin\Debug\net8.0\Oppgave5.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\refint\Oppgave5.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\Oppgave5.genruntimeconfig.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\1 Backend-programmering\23-24\Emne 4 Objektorientert Programmering\Eksamen\Template\Oppgave5\obj\Debug\net8.0\ref\Oppgave5.dll
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\bin\Debug\net8.0\Oppgave5.exe
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\bin\Debug\net8.0\cars.csv
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\bin\Debug\net8.0\Oppgave5.deps.json
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\bin\Debug\net8.0\Oppgave5.runtimeconfig.json
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\bin\Debug\net8.0\Oppgave5.dll
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\bin\Debug\net8.0\Oppgave5.pdb
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.AssemblyInfoInputs.cache
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.AssemblyInfo.cs
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.csproj.CoreCompileInputs.cache
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.dll
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\refint\Oppgave5.dll
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.pdb
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\Oppgave5.genruntimeconfig.cache
+D:\documents\GA\OOP_C#NET\Eksamen\Oppgave5\obj\Debug\net8.0\ref\Oppgave5.dll
